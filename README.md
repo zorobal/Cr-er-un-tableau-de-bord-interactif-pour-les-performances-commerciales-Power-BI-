@@ -1,4 +1,4 @@
-# tableau de bord interactif pour les performances commerciales Power BI 
+# Tableau de bord interactif pour les performances commerciales Power BI 
 
 # Problématique métier
 Une entreprise souhaite un tableau de bord interactif pour suivre les 
